@@ -24,7 +24,7 @@ We build solutions that make a difference, with people at the center of everythi
 
 | Software engineering | Data &amp; AI |
 |---|---|
-| Discovery and product strategy, UX/UI, web and mobile, cloud and platform engineering. Long-lived systems built to be maintained, not throwaway MVPs. | Data engineering and BI, data science, applied AI and agentic systems, governance and strategy. Turning data into decisions people can trust. |
+| Discovery and product strategy, UX/UI, web and mobile, cloud and platform engineering. Maintainable systems, built with our own libraries and tooling and with AI at the center of our workflow as a productivity multiplier. | Data engineering and BI, data science, applied AI and agentic systems, governance and strategy. Turning data into decisions people can trust. |
 
 <br>
 
