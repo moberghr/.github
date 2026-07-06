@@ -69,12 +69,12 @@ A cross-platform CLI for managing git worktrees across multiple repositories, wi
 </td>
 <td width="50%" valign="top">
 
-#### [Plugins &amp; guidelines](https://github.com/moberghr/moberg-plugins)
+#### [Beacon](https://github.com/moberghr/beacon)
 
-Our [Claude Code plugin marketplace](https://github.com/moberghr/moberg-plugins) (MTK and work-tree), together with the [coding guidelines](https://github.com/moberghr/coding-guidelines) that MTK enforces, all published openly.
+Semantic alerts and notifications that surface the signals worth acting on and route them to the right people, rather than relying on threshold-based noise.
 
-![Marketplace](https://img.shields.io/badge/Claude%20Code-marketplace-4E0EFF?style=flat-square&labelColor=13181E)
-![Open](https://img.shields.io/badge/Guidelines-open-4E0EFF?style=flat-square&labelColor=13181E)
+![.NET](https://img.shields.io/badge/.NET-C%23-4E0EFF?style=flat-square&labelColor=13181E&logo=dotnet&logoColor=white)
+![Alerts](https://img.shields.io/badge/Semantic-alerts-4E0EFF?style=flat-square&labelColor=13181E)
 
 </td>
 </tr>
